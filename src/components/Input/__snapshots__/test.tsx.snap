@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> Should match snapshot 1`] = `
+<input
+  autocomplete="off"
+  class="
+  box-border
+  outline-0
+  overflow-hidden
+  w-full
+  absolute
+  rounded
+  bg-transparent
+  transition-all
+  duration-200
+  ease-in-out
+  pt-[16px]
+  pl-[0.5rem]
+  text-[1rem]
+  leading-[1.1875rem]
+  text-secondary
+  bottom-[0.4rem]
+"
+  id="nome"
+  name="nome"
+  value=""
+/>
+`;
